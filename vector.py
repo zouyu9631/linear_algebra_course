@@ -4,7 +4,6 @@ from math import cos, sin, acos, asin, radians, degrees, pi
 
 EPS = 1e-9
 
-
 class Vector(object):
     def __init__(self, coordinates):
         try:
